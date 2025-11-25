@@ -1,0 +1,12 @@
+# Core PyTorch dependencies
+torch
+torchvision
+
+# Libraries used for file operations, data handling, and progress
+pandas
+numpy
+Pillow
+tqdm
+requests
+kaggle
+scikit-learn
